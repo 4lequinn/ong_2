@@ -6,6 +6,8 @@ body{
 
 h2{
     color: #000;
+    font-size: 30px;
+    text-shadow: -2px -2px 0px #fff, 2px -2px 0px #fff, -2px 2px 0px #fff, 2px 2px 0px #fff;
 }
 
 .nav-bar h4{
@@ -64,8 +66,8 @@ h2{
 }
 
 .nav-bar a:hover{
-    filter: brightness(.4);
-    transition:.5;
+    filter:  brightness(.4);
+    transition: .5;
     color: #F000FF;
     
 }
